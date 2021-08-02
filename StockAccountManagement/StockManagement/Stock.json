@@ -1,0 +1,18 @@
+  [
+    {
+      "companyName": "IBM",
+      "numberOfShare": 20,
+      "sharePrice": 1000
+    },
+    {
+      "companyName": "CTS",
+      "numberOfShare": 37,
+      "sharePrice": 1020
+    },
+    {
+      "companyName": "TCS",
+      "numberOfShare": 50,
+      "sharePrice": 1230
+    }
+  ]
+
